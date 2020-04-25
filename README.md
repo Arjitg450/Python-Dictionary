@@ -1,6 +1,8 @@
 # Python Word Meaning Dictionary
 
-"Simple Dictionary using python. Process (How code works): 1-Take input from the user.\n"
+"Simple Dictionary using python. Process (How code works):"
+
+"1-Take input from the user.\n"
 
 "2-Search the Google dictionary for the word user entered (uses the internet).\n"
 
